@@ -66,6 +66,8 @@ int yyerror(char *msg)
 }
 ```
 # OUTPUT
+![image](https://github.com/mathes6112004/Ex-8-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC/assets/119477782/9b34f47a-9e6c-4e69-9a99-c560aeeb2ba5)
+
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
  
